@@ -15,7 +15,7 @@ Logotipo:
 ![](https://github.com/pabloj121/DIU/blob/master/P3/images/logo.png)
 
 Miembros
- * :bust_in_silhouette:   Sergio Vela Pelegrina     :octocat: [GitHub](https://github.com/pabloj121)
+ * :bust_in_silhouette:   Sergio Vela Pelegrina     :octocat: [GitHub](https://github.com/sergiovp)
  * :bust_in_silhouette:  Pablo Jesús Jiménez Ortiz     :octocat: [GitHub](https://github.com/pabloj121)
 
 ----- 
