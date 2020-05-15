@@ -1,13 +1,18 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU2_SVPJ.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Experiencia de compartir alojamiento
 
-Descripción: 
+Descripción: Plataformas que te permiten compartir compañeros (para un piso de estudiantes), desplazarte a
+otros lugares de forma alternativas (sofá) y muy económicas (alternativas a una transacción
+económica). Algunos ejemplos son Badi, Couchsurfing, CompartetuPiso, etc.
+(https://mejores.app/las-apps-que-tienes-que-conocer-si-compartes-piso/)
 
-Logotipo: 
+Logotipo:
+
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo.png)
 
 Miembros
  * :bust_in_silhouette:   Sergio Vela Pelegrina     :octocat: [GitHub](https://github.com/sergiovp)
@@ -20,8 +25,6 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
-
 
 # Proceso de Diseño 
 
@@ -30,27 +33,34 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+La plataforma elegida para el estudio será [pisocompartido](https://www.pisocompartido.com).
+La interfaz de dicha página es muy intuitiva, ofrece un diseño **responsive**, viéndose de manera adecuada en todo momento. Además, la navegación es agradable por los colores usados. También ofrece la posibilidad de ponerte en contacto de manera directa con Whatsapp desde la propia Web, cosa que no ofrecen la mayoria de portales de la competencia. Sin embargo, vemos suficientes lagunas en esta web, que serán analizadas a lo largo de estas prácticas. Algunas de ellas son por ejemplo, la falta de información acerca de la accesibilidad a los edificios para personas minusválidas o tener en cuenta el transporte público a la hora de elegir piso.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Las personas seleccionadas son **Germán y Eva**.
+
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+La experiencia de **Germán**, se ha escogido para reflejar el problema que puede suponer el no tener un chat online
+para mantenerte en contacto con los administradores de la web.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+En cuanto a **Eva**, hemos querido reflejar el problema de poder tener **búsquedas por comunidad autónoma** en la página.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+Calificación final obtenida de **72** sobre **100**.
+
+---
+
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P1](https://github.com/sergiovp/DIU/tree/master/P1).
+
+---
 
 ## Paso 2. UX Design  
 
@@ -58,133 +68,122 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+En esta primera parte construiremos una malla receptora de información o capture grid, que consiste en elaborar un cuadrante con 4 apartados: aspectos positivos, críticas constructivas, preguntas de los usuarios e ideas de mejora.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+También incluiremos las propuestas de valor de nuestra aplicación.
 
+Destacan varias funcionalidades en nuestra aplicación. Las más innovadoras y por tanto, aquellas que implementaremos son: 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
++ La inclusión de un **recorrido mediante realidad virtual** a través de las viviendas mediante botones
++ Un **chat en directo**, a través del cual nos podremos comunicar con los administradores en tiempo real gracias a un menú desplegable de mensajes a modo de guía para el usuario 
++ Mecanismos de interacción novedosos como la posibilidad de comunicarte por Whatsapp directamente con el dueño de la vivienda mediante un icono que abrirá una conversación automáticamente
++ También será posible valorar y comentar las viviendas así como hacer un seguimiento del historial de uso de las mismas
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+A continuación, se realiza una matriz de tareas/usuarios, la cual se compone de una lista de tareas en filas y los perfiles de los usuarios en las columnas. Se indicará para cada caso su frecuencia de uso (Low/Moderate/High).
 
+Se creará también el sitemap, que propone una organización lógica de la navegación.
+
+En nuestro caso, consideramos más adecuada la matriz de tareas pues permite visualizar fácil e intuitivamente qué funcionalidades serán más importantes para unos usuarios u otros, permitiendo de un vistazo diferenciar la frecuencia de uso que le dará cada uno.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+Dentro de las ideas innovadoras se engloban el chat online, que permitirá una comunicación fluida con el personal de soporte. El tour virtual, que de manera novedosa muestra la vivienda al usuario mediante realidad virtual o valorar/comentar, para que los próximos usuarios sepan de experiencias anteriores. Por último, también se podrá ver el historial de uso para saber si un piso ha sido alquilado más o menos veces.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Los bocetos de la interfaz de la página.
+
+---
+
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P2](https://github.com/sergiovp/DIU/tree/master/P2).
+
+---
+
+## Paso 3. SVPJ UX-Case Study 
 
 
-## Paso 3. Make (Prototyping) 
-
-
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
+Con la lectura de MuseMap, hemos podido ver cómo los métodos utilizados de diseño en esta práctica y en anteriores se lleva a cabo en proyectos reales. También hemos conocido otros nuevos métodos como la priorización de funciones o el empathy map.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+En definitiva, a la hora de abordar el diseño de cualquier aplicación, sería ideal ver proyectos de otra gente, con el fin de obtener más ideas y aprender de la experiencia de ellos.
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+Para el diseño del logotipo, hemos utilizado la página [freelogodesign](https://es.freelogodesign.org) la cual permite crear logos de manera sencilla. El inconveniente es que la versión gratuita no te permite modificar la resolución del logo, por lo que en nuestro caso, es de *200x200px* en formato *png*.
 
->>> Plantear Landing Page 
+Si quisiéramos usar dicha imagen como cabecera de *twitter*, *facebook* o cualquier red social, la deberíamos de adaptar, ya que de no ser así, no se vería correctamente. La deberíamos de hacer más "rectangular" o apaisada con el fin de que se apropie mejor al formato de las cabeceras.
+
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.png)
 
-![Método UX](img/mockup.png)  3.d Mockup
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/arial.png)
+
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/Playfair-Display-Bold.png)
+
+![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+El enlace al vídeo resumen se encuentra [aquí](https://youtu.be/jtsOdRgkl14).
 
 
-## Paso 4. UX Check (Usability Testing) 
+---
 
 
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P3](https://github.com/sergiovp/DIU/tree/master/P3).
+
+---
+
+## Paso 4. Evaluación 
+
+![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
+En esta práctica, tendremos la perspectiva de evaluador o "cliente de producto". Lo que quiere decir que evaluaremos o comentaremos las partes de diseño de nuestros compañeros, así como sugeriremos mejoras y expresararemos  dudas con respecto a partes de los bocetos u otros entregables.
 
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+Los compañeros a evaluar son:
 
->>>> Práctica A: 
++ [DIU1.1SHOT](https://github.com/aluruiz/DIU20)
 
++ [DIU3.BNET](https://github.com/alejandrobonet/DIU20)
+
++ [DIU3.ultraMerino](https://github.com/merino25/DIU20)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Usuarios para evaluar prácticas 
+
+Para la realización de las pruebas de usuario, se ha escogido a nuestro persona ficticia Eva que, como sabemos, es una persona a la que le gusta pasar mucho tiempo con su familia y amigos. Este es el motivo por el cual puede resultar más crítica juzgando una aplicación de compartición como hemos mencionado anteriormente.
+
+En general, los problemas surgen con la falta de implementar aplicaciones en varios idiomas,  así como pocas opciones filtrando resultados. Por ejemplo, a la hora de seleccionar hotel, que no se pueda seleccionar el número de habitaciones deseadas o la cantidad de personas que van a viajar.
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png) 4.c Ranking 
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+Antes de nada, es apropiado comentar que valoramos y respetamos mucho el trabajo de nuestros compañeros. 
 
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B 
++ 1º [DIU3.ultraMerino](https://github.com/merino25/DIU20). 70 puntos.
++ 2º  [DIU3.BNET](https://github.com/alejandrobonet/DIU20). 58 puntos.
++ 3º [DIU1.1SHOT](https://github.com/aluruiz/DIU20). 56 puntos.
 
 
+En general, un punto importante que nos ha dificultado el análisis de sus prácticas ha sido la desorganización con los READMEs. Hay veces en los que la práctica se explica en el readme general, otras en el readme de la práctica en concreto, etc. Por otra parte, los vídeos que se realizaron en la Práctica 3 son atractivos en general, aunque a veces no destacan las funcionalidades distintivas de las aplicaciones.
 
-## Paso 5. Evaluación de Accesibilidad  
+No obstante, este análisis nos ha servido para aprender otros puntos de vista en cuanto a diseñar, así como conocer aplicaciones que hasta la fecha no sabíamos que existían, como es el caso de las aplicaciones para compartir experiencia o viajes.
 
+---
 
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
-
-
-## Conclusión / Valoración de las prácticas
-
-
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P4](https://github.com/sergiovp/DIU/tree/master/P4).
