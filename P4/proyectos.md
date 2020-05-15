@@ -39,7 +39,7 @@ Tema: Experiencia de compartir alojamiento GRUPO DIU2 (VIERNES)
 * DIU2.Ortega-Y-Gasset	[Web](https://github.com/romanlarrosa/DIU20)
 * DIU2.Plata	[Web](https://github.com/Superkorlas/DIU_Practicas)
 * DIU2.pserrano	[Web](https://github.com/pserrano778/DIU20)
-* DIU2.SVPJ	[Web](https://github.com/sergiovp/DIU)
+* DIU2.SVPJ	[Web](https://github.com/pabloj121/DIU)
 * DIU2.TeTic	[Web](https://github.com/migueg/DIU20)
 
 ----------

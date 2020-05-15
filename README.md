@@ -12,10 +12,10 @@ económica). Algunos ejemplos son Badi, Couchsurfing, CompartetuPiso, etc.
 
 Logotipo:
 
-![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo.png)
+![](https://github.com/pabloj121/DIU/blob/master/P3/images/logo.png)
 
 Miembros
- * :bust_in_silhouette:   Sergio Vela Pelegrina     :octocat: [GitHub](https://github.com/sergiovp)
+ * :bust_in_silhouette:   Sergio Vela Pelegrina     :octocat: [GitHub](https://github.com/pabloj121)
  * :bust_in_silhouette:  Pablo Jesús Jiménez Ortiz     :octocat: [GitHub](https://github.com/pabloj121)
 
 ----- 
@@ -58,7 +58,7 @@ Calificación final obtenida de **72** sobre **100**.
 
 ---
 
-#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P1](https://github.com/sergiovp/DIU/tree/master/P1).
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P1](https://github.com/pabloj121/DIU/tree/master/P1).
 
 ---
 
@@ -100,7 +100,7 @@ Los bocetos de la interfaz de la página.
 
 ---
 
-#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P2](https://github.com/sergiovp/DIU/tree/master/P2).
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P2](https://github.com/pabloj121/DIU/tree/master/P2).
 
 ---
 
@@ -121,16 +121,16 @@ Para el diseño del logotipo, hemos utilizado la página [freelogodesign](https:
 
 Si quisiéramos usar dicha imagen como cabecera de *twitter*, *facebook* o cualquier red social, la deberíamos de adaptar, ya que de no ser así, no se vería correctamente. La deberíamos de hacer más "rectangular" o apaisada con el fin de que se apropie mejor al formato de las cabeceras.
 
-![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo.png)
+![](https://github.com/pabloj121/DIU/blob/master/P3/images/logo.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.png)
+![](https://github.com/pabloj121/DIU/blob/master/P3/images/colores.png)
 
-![](https://github.com/sergiovp/DIU/blob/master/P3/images/arial.png)
+![](https://github.com/pabloj121/DIU/blob/master/P3/images/arial.png)
 
-![](https://github.com/sergiovp/DIU/blob/master/P3/images/Playfair-Display-Bold.png)
+![](https://github.com/pabloj121/DIU/blob/master/P3/images/Playfair-Display-Bold.png)
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
@@ -141,7 +141,7 @@ El enlace al vídeo resumen se encuentra [aquí](https://youtu.be/jtsOdRgkl14).
 ---
 
 
-#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P3](https://github.com/sergiovp/DIU/tree/master/P3).
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P3](https://github.com/pabloj121/DIU/tree/master/P3).
 
 ---
 
@@ -186,4 +186,4 @@ No obstante, este análisis nos ha servido para aprender otros puntos de vista e
 
 ---
 
-#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P4](https://github.com/sergiovp/DIU/tree/master/P4).
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P4](https://github.com/pabloj121/DIU/tree/master/P4).

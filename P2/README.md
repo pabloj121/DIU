@@ -10,7 +10,7 @@ En esta primera parte construiremos una malla receptora de información o captur
 
 También incluiremos las propuestas de valor de nuestra aplicación.
 
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/malla.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/malla.png)
 
 Destacan varias funcionalidades en nuestra aplicación. Las más innovadoras y por tanto, aquellas que implementaremos son: 
 
@@ -26,17 +26,17 @@ A continuación, se realiza una matriz de tareas/usuarios, la cual se compone de
 
 Se creará también el sitemap, que propone una organización lógica de la navegación.
 
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/matriz.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/matriz.png)
 
 En nuestro caso, consideramos más adecuada la matriz de tareas pues permite visualizar fácil e intuitivamente qué funcionalidades serán más importantes para unos usuarios u otros, permitiendo de un vistazo diferenciar la frecuencia de uso que le dará cada uno.
 
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/Sitemap.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/Sitemap.png)
 
 
 ![Método UX](../img/labelling.png) 2.c Labelling 
 ----
 
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/labelling.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/labelling.png)
 
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
@@ -44,37 +44,37 @@ En nuestro caso, consideramos más adecuada la matriz de tareas pues permite vis
 Ahora presentamos los bocetos Lo-Fi de la mayoría de las distintas pantallas de interfaz.
 
 ## Inicio
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/inicio.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/inicio.png)
 
 ---
 
 ## Entra 
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/entra.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/entra.png)
 
 ---
 
 ## Regístrate
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/registrate.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/registrate.png)
 
 ---
 
 ## Búsqueda
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/busqueda.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/busqueda.png)
 
 ---
 
 ## Búsqueda avanzada
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/busqueda_avanzada.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/busqueda_avanzada.png)
 
 ---
 
 ## Anuncio piso
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/piso.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/piso.png)
 
 ---
 
 ## Tour realidad aumentada
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/tour.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/tour.png)
 
 ---
 
@@ -82,4 +82,4 @@ Ahora presentamos los bocetos Lo-Fi de la mayoría de las distintas pantallas de
 
 La siguiente imagen simula el formulario a rellenar por parte del usuario, para el cual se hace scroll vertical.
 
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/publica.png)
+![](https://github.com/pabloj121/DIU/blob/master/P2/images/publica.png)

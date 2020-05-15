@@ -12,7 +12,7 @@ Como puntos **a favor** de la aplicación desarrollada por este equipo, podríam
 Por otro lado, como puntos **negativos**, nos encontramos dos **personas ficticias** con información escasa que nos hace imposible imagirnarnos como serán realmente. En cuanto a los **journey map**, las historias no representan un conflicto real para el usuario. En la elaboración del **site map** encontramos cosas incongruentes, como la posibilidad de visitar el perfil del usuario sin previamente logearse.
 El **README** principal se encuentra incompleto con alguna práctica, y en caso contrario, hay prácticas en las que el readme principal contiene más información que el particular de la práctica.
 
-La hoja de valoración la encontramos [aquí](https://github.com/sergiovp/DIU/blob/master/P4/Reviews/DIU1.1SHOT.pdf).
+La hoja de valoración la encontramos [aquí](https://github.com/pabloj121/DIU/blob/master/P4/Reviews/DIU1.1SHOT.pdf).
 
 ## Caso 2. Grupo [DIU3.BNET](https://github.com/alejandrobonet/DIU20)
 El tema general de las aplicaciones para este grupo es el de compartir experiencias de ocio, es decir, todas aquellas plataformas cuyo objetivo es organizar eventos y que los usuarios se apunten a los que ellos deseen.
@@ -22,7 +22,7 @@ Para el estudio, se decidieron por [feverup](https://feverup.com), la cual muest
 Su propuesta de aplicación es **EventWORLD**, y se define como una aplicación para aquellos pequeños aventureros que estan cansados de la monotomía y quieren conocer nuevas experiencias.
 Servirá tanto de guía para viajes como para para encontrar nuevas aficiones o simplemente despejarnos del estrés diario por nuestra zona.
 
-La hoja de valoración la encontramos [aquí](https://github.com/sergiovp/DIU/blob/master/P4/Reviews/DIU3.BNET.pdf).
+La hoja de valoración la encontramos [aquí](https://github.com/pabloj121/DIU/blob/master/P4/Reviews/DIU3.BNET.pdf).
 
 
 A continuación se destacan los **elementos mejores y peores** de esta práctica: uno de los journey map no reflejaba un problema de diseño de la aplicación, ni se añadió logotipo en la Práctica 3.
@@ -37,7 +37,7 @@ La aplicación a partir de la cual se realizó el estudio fue [Artery](https://w
 
 Su propuesta de aplicación fue denominada **OCIUS**. Esta aplicación fomentará que los usuarios creen eventos de ocio en sus casas o asistan a eventos en los hogares de los demás compartiendo así experiencias únicas y conociendo gente nueva.
 
-La hoja de valoración la encontramos [aquí](https://github.com/sergiovp/DIU/blob/master/P4/Reviews/DIU3.ultraMerino.pdf).
+La hoja de valoración la encontramos [aquí](https://github.com/pabloj121/DIU/blob/master/P4/Reviews/DIU3.ultraMerino.pdf).
 
 En cuanto a las **virtudes y carencias** de esta práctica, destacamos lo siguiente: en la propuesta no se hace una descripción explícita del producto ni se indican las funcionalidades más reelevantes; el análisis de competencia era pobre pues solo analizaban a un rival y apenas destacaban sus bazas ni sus puntos débiles. En contrapartida, y como puntos a destacar, se crearon las personas de forma adecuada permitiendo de manera sintetizada conocer a esas personas así como sus vidas, con unas experiencias posteriores bastante ilustrativas. 
 
